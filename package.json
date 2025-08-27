@@ -1,0 +1,10 @@
+{
+  "name": "@wladev/french-slugify",
+  "version": "1.0.0",
+  "description": "Un utilitaire pour transformer du texte français en slug URL-friendly",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["slug", "french", "url", "seo"],
+  "author": "Wlad",
+  "license": "MIT"
+}
