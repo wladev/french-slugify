@@ -10,6 +10,22 @@ Gère les accents, caractères spéciaux français et permet de personnaliser le
 
 ---
 
+## ⚙️ Options
+
+| Option       | Type   | Description                        | Default |
+|-------------|--------|------------------------------------|---------|
+| `separator` | string | Caractère utilisé pour séparer les mots | `"-"`   |
+
+---
+
+## 🔧 Caractéristiques
+
+- Gestion complète des **accents français** (`é, è, ê, à, ç, œ, æ …`)  
+- Remplace **espaces et ponctuations** par des tirets ou le séparateur choisi  
+- **Minuscule automatique**  
+- Léger et simple à intégrer dans tout projet JS/TS
+
+
 ## 🚀 Installation
 
 ```bash
